@@ -1,0 +1,21 @@
+{
+  "name": "open_on_mobile_app",
+  "version": "6.0.3",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "run:android": "react-native run-android"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@builderx/react-native-swiper": "^0.1.6",
+    "@builderx/tab-view": "^0.1.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
